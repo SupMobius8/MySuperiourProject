@@ -63,4 +63,5 @@ if остаток==int(ik_list[10]):
 else:
     print("IDkood неправильный!")
     arvud.append(ik)
+    
 
